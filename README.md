@@ -1,2 +1,2 @@
 # Myfirst
-Ruch planet
+Planeta
