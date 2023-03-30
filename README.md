@@ -1,5 +1,4 @@
 
-Natdata/README.md
 
 # Project Covid
 
